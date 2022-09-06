@@ -1,0 +1,7 @@
+[0 1 1 1 1]
+0.5714285714285715
+                column         mean  median          std
+0   lastmonth_activity   165.653846    73.0   284.033229
+1    lastyear_activity  1502.923077   955.0  2192.644958
+2  number_of_employees    26.884615    14.0    31.353886
+[['ingestion timing', 0.22300470799746108], ['training timing', 0.5860979980025149]]
